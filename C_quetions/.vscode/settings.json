@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.kt": "kotlin",
+        "compare": "cpp",
+        "cstdint": "cpp"
+    }
+}
